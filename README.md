@@ -1,4 +1,6 @@
-"Authorize.Net Credit Card API Integration"
+"Authorize.Net Credit Card API Integration In PHP"
+
+[In above files there is (authorize.net api integration with php.zip) file download and paste in xampp/wamp, then make database and create table all details in sql.sql]
 
 This GitHub repository provides a simple and easy-to-understand implementation of integrating the Authorize.Net Credit Card API into your web application.
 The integration allows your application to securely process credit card payments, enabling seamless and secure transactions for your users.
