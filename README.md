@@ -1,4 +1,4 @@
-"Authorize.Net Credit Card API Integration In PHP"
+Authorize.Net Credit Card API Integration In PHP
 
 [In above files there is (authorize.net api integration with php.zip) file download and paste in xampp/wamp, then make database and create table all details in sql.sql]
 
